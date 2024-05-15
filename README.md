@@ -1,4 +1,7 @@
-### Hi there 👋
+#  Ron Maor
+
+**`Data Scientist & Researcher (Machine Learning/Geophysics/Climate)`**
+
 
 <!--
 **Ron-27/Ron-27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
