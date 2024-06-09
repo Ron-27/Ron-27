@@ -1,6 +1,6 @@
 #  Ron Maor
 
-**`Data Scientist & Researcher (Machine Learning/Geophysics/Climate)`**
+**`Data Scientist & Researcher (Machine Learning/Geophysics/Climate/Sustainable Finance)`**
 
 
 <!--
